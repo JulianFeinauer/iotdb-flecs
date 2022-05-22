@@ -1,0 +1,12 @@
+app: org.apache.iotdb
+title: Apache IoTDB
+version: 0.13.0
+description: |
+  Timeseries Database for IIoT Applications
+author: Julian Feinauer
+avatar: https://iotdb.apache.org/img/logo.png
+category: database
+image: apache/iotdb:0.13.0-node
+multiInstance: true
+ports:
+  - 6667
